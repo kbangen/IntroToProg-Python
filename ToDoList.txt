@@ -1,0 +1,4 @@
+homework, 1
+laundry, 2
+dishes, 3
+taxes, 4
